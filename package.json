@@ -1,0 +1,15 @@
+{
+  "name": "Event Reactor Aggregator",
+  "version": "0.31.0",
+  "description": "Event Reactor Snippet Aggregator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Leonardo Rdgz-Vidal",
+  "license": "ISC",
+  "dependencies": {
+    "prepend-file": "^1.3.1"
+  }
+}
