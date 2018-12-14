@@ -4,9 +4,11 @@
 /dist
 /tmp
 /out-tsc
-/files
-/test
+/testfolder*
 /package-lock.json
+/index.html
+/.vscode
+eventReactorLog.txt
 
 # dependencies
 /node_modules
